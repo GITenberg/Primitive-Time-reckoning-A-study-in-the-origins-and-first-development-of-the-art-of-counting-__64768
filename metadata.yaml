@@ -1,11 +1,16 @@
 _repo: Primitive-Time-reckoning-A-study-in-the-origins-and-first-development-of-the-art-of-counting-__64768
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64768-h/images/cover.jpg
 creator:
   author:
     agent_name: Nilsson, Martin Persson
     gutenberg_agent_id: '53043'
     url: http://www.gutenberg.org/2009/agents/53043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64768#Primitive-Time-reckoning-A-study-in-the-origins-and-first-development-of-the-art-of-counting-_
 gutenberg_issued: '2021-03-09'
 gutenberg_type: Text
 identifiers:
